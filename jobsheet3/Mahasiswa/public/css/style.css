@@ -1,0 +1,22 @@
+/* CSS untuk mengatur elemen tengah dan memberikan warna latar belakang */
+body {
+    background-color: #f0f0f0;
+    /* Warna latar belakang */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .content {
+    background-color: white;
+    /* Warna latar belakang konten */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+ 
+  

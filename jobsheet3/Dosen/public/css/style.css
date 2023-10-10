@@ -1,0 +1,52 @@
+.table-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #00cc00; /* Warna latar belakang header */
+  color: white; /* Warna teks header */
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2; /* Warna latar belakang baris genap */
+}
+
+body {
+    background-color: #f0f0f0;
+    /* Warna latar belakang */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-top: 20px;
+    width: 80%;
+  }
+  
+  .content {
+    background-color: white;
+    /* Warna latar belakang konten */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+  }
+ 
+  
