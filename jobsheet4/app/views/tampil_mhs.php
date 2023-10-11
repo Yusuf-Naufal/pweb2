@@ -8,25 +8,7 @@
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <link rel="stylesheet" href="../../public/css/style.css">
-    <script type="text/javascript">
 
-        function contoh() {
-
-            swal({
-
-                title: "Berhasil!",
-
-                text: "Pop-up berhasil ditampilkan",
-
-                icon: "success",
-
-                button: true
-
-            });
-
-        }
-
-    </script>
 </head>
 
 <div class="px-4 py-3">
